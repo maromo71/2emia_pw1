@@ -53,4 +53,10 @@ Vinicius Tavares, <br />
 Joao Vitor Santos <br />
 https://github.com/fiodamarcia/exerciciopw_narutoetavares
 <hr />
+
+Mateus Henrique, <br />
+Nicole Bueno, <br />
+Thamy Goulart (é php) <br />
+https://github.com/TheOldLion/loja
+<hr />
 Maromo

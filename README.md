@@ -71,7 +71,7 @@ https://github.com/brunasimoes/loja
 <hr />
 
 Lucas Fernando, <br />
-Lucas Benati <br />
-https://github.com/galano1707/lojaPHP
+Lucas Benatti <br />
+https://github.com/gallano1707/lojaPHP
 <hr />
 Maromo

@@ -64,4 +64,14 @@ Pedro Táparo da Silva, <br />
 Pedro Henrique Gomes Honório CS <br />
 https://github.com/Pedr0o0G/lojaPHP
 <hr />
+
+João Coutinho, <br />
+Bruna Vicente <br />
+https://github.com/brunasimoes/loja
+<hr />
+
+Lucas Fernando, <br />
+Lucas Benati <br />
+https://github.com/galano1707/lojaPHP
+<hr />
 Maromo

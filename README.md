@@ -21,4 +21,9 @@ Vinicius Longo <br />
 https://github.com/josegabrielm/projetos2709
 <hr />
 
+Bruna Fernanda, <br />
+Isabela Menato, <br />
+Silvio Raphael <br />
+https://github.com/TheWinterhell/Atividade1
+<hr />
 Maromo

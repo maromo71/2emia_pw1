@@ -26,4 +26,10 @@ Isabela Menato, <br />
 Silvio Raphael <br />
 https://github.com/TheWinterhell/Atividade1
 <hr />
+
+
+jonathan micael <br />
+bruno gabriel <br />
+https://github.com/jhou917/Atividade
+<hr />
 Maromo

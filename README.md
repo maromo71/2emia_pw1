@@ -48,4 +48,9 @@ Iris Braga, <br />
 Sandy Azevedo <br />
 https://github.com/irisbraga/loja
 <hr />
+
+Vinicius Tavares, <br />
+Joao Vitor Santos <br />
+https://github.com/fiodamarcia/exerciciopw_narutoetavares
+<hr />
 Maromo

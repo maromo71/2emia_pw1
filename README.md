@@ -2,12 +2,12 @@
 Repositório com projeto dos aluno para aula de PHP.
 
 Os trabalhos desenvolvidos em sala de aula ficarão disponíveis neste repositório no momento de sua finalização.
-
+<hr />
 # Repositório Alunos: 
 Norberto Oliveira, <br />
 Leornardo Ferraz, <br />
 Rafael Bronzatto <br />
 https://github.com/norbertool/trab-ddw-php-mdbd
-
+<hr />
 
 Maromo

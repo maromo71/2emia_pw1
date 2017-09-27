@@ -3,7 +3,8 @@ Repositório com projeto dos aluno para aula de PHP.
 
 Os trabalhos desenvolvidos em sala de aula ficarão disponíveis neste repositório no momento de sua finalização.
 <hr />
-# Repositório Alunos: 
+
+<h2>Repositório Alunos: </h2>
 Norberto Oliveira, <br />
 Leornardo Ferraz, <br />
 Rafael Bronzatto <br />

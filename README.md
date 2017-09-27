@@ -32,4 +32,14 @@ jonathan micael <br />
 bruno gabriel <br />
 https://github.com/jhou917/Atividade
 <hr />
+
+joão pedro barbosa <br />
+joão pedro birelo <br />
+vitor perin <br />
+micael <br />
+https://github.com/Joaobarbosa001/loja_php
+<hr />
+<hr />
+
+
 Maromo

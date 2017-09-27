@@ -11,8 +11,8 @@ Rafael Bronzatto <br />
 https://github.com/norbertool/trab-ddw-php-mdbd
 <hr />
 
-Lucas Delfini,
-Graziela Anacleto
+Lucas Delfini, <br />
+Graziela Anacleto <br />
 https://github.com/lucas41/pdocadastro
 <hr />
 

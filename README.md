@@ -59,4 +59,9 @@ Nicole Bueno, <br />
 Thamy Goulart (é php) <br />
 https://github.com/TheOldLion/loja
 <hr />
+
+Pedro Táparo da Silva, <br />
+Pedro Henrique Gomes Honório CS <br />
+https://github.com/Pedr0o0G/lojaPHP
+<hr />
 Maromo

@@ -13,7 +13,7 @@ https://github.com/norbertool/trab-ddw-php-mdbd
 
 Lucas Delfini, <br />
 Graziela Anacleto <br />
-https://github.com/lucas41/pdocadastro
+https://github.com/lucas41/exercicio20-09
 <hr />
 
 José Gabriel, <br />

@@ -40,9 +40,12 @@ micael <br />
 https://github.com/Joaobarbosa001/loja_php
 <hr />
 
-Thiago Vinicius<hr />
+Thiago Vinicius<br />
 https://github.com/profifa/atividade1
 <hr />
 
-
+Iris Braga, <br />
+Sandy Azevedo <br />
+https://github.com/irisbraga/loja
+<hr />
 Maromo

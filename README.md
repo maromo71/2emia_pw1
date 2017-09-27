@@ -74,4 +74,9 @@ Lucas Fernando, <br />
 Lucas Benatti <br />
 https://github.com/gallano1707/lojaPHP
 <hr />
+
+Roberta Fraleoni, <br />
+Gabriel Franco <br />
+https://github.com/fraleoni1908/loja
+<hr />
 Maromo

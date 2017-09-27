@@ -39,6 +39,9 @@ vitor perin <br />
 micael <br />
 https://github.com/Joaobarbosa001/loja_php
 <hr />
+
+Thiago Vinicius<hr />
+https://github.com/profifa/atividade1
 <hr />
 
 

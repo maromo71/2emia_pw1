@@ -16,4 +16,9 @@ Graziela Anacleto <br />
 https://github.com/lucas41/pdocadastro
 <hr />
 
+José Gabriel, <br />
+Vinicius Longo <br />
+https://github.com/josegabrielm/projetos2709
+<hr />
+
 Maromo

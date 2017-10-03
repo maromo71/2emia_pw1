@@ -84,4 +84,9 @@ Mikaela Teodoro, <br />
 João Paiva <br />
 https://github.com/mikaela23/trabalhoddw-mdbd
 <hr />
+
+João Jesus <br />
+Gustavo Haiek <br />
+Beatriz Pierobon <br />
+https://github.com/jesusjonh/aula-26-09
 Maromo

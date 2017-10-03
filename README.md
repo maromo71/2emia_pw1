@@ -79,4 +79,9 @@ Roberta Fraleoni, <br />
 Gabriel Franco <br />
 https://github.com/fraleoni1908/loja
 <hr />
+
+Mikaela Teodoro, <br />
+João Paiva <br />
+https://github.com/mikaela23/trabalhoddw-mdbd
+<hr />
 Maromo

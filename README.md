@@ -57,7 +57,8 @@ https://github.com/fiodamarcia/exerciciopw_narutoetavares
 Mateus Henrique, <br />
 Nicole Bueno, <br />
 Thamy Goulart (é php) <br />
-https://github.com/TheOldLion/loja
+https://github.com/TheOldLion/loja (PHP Sem CSS)
+https://github.com/Nicolebueno/nicoleethammy
 <hr />
 
 Pedro Táparo da Silva, <br />
